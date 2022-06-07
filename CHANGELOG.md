@@ -1,4 +1,4 @@
-# Change Log
+# Change Log 2
 
 ## [Unreleased](https://github.com/bankex/web3swift/tree/HEAD)
 
